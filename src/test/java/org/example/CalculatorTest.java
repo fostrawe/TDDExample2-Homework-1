@@ -2,7 +2,7 @@
 // B211202011
 // FURKAN ÇELEBİ
 // SWE 202 SOFTWARE VERIFICATION AND VALIDATION 2023-2024 SPRING SEMESTER HOMEWORK 1
-// https://github.com/fostrawe/SVV-HOMEWORK1
+// https://github.com/fostrawe/TDDExample2-Homework-1
 
 package org.example;
 
